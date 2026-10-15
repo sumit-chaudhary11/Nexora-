@@ -11,7 +11,7 @@ export async function runCliMode(){
             message:"Choose CLI sub-mode",
             options:[
                 {value:"agent",label:"Agent mode"},
-                {value:"plan",label:"Plan mode 2"},
+                {value:"plan",label:"Plan mode "},
                 {value:"ask",label:"Ask Mode"},
                 {value:"back",label:"Back to main menu"},
             ],
